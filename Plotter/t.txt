@@ -1,0 +1,4 @@
+AAAA
+BBBB
+ABAB
+test
